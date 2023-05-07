@@ -1,0 +1,55 @@
+body
+{
+    
+    flex-direction: column;
+    display: flex;
+    background-color: rgb(228, 121, 187);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+header
+{
+    justify-content: center;
+    display: flex;
+    background-color: rgba(199, 27, 133, 0.349);
+    width: 100%;
+    height: fit-content;
+}
+
+
+.cartinhas
+{
+    display: flex;
+    justify-content: center;
+}
+
+img
+{
+    width: 150px; ;
+}
+
+
+
+.card
+{
+    width: 200px;
+    background-color: white;
+    padding: 13px;
+    margin: 10px;
+    border: 3px solid black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+
+
+.cabeçalho
+{
+    font-size: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 150px;
+}
+
